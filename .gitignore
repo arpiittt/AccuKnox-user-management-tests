@@ -1,0 +1,17 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.py[cod]
+
+# Pytest and Playwright
+.pytest_cache/
+test-results/
+playwright-report/
+blob-report/
+videos/
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
