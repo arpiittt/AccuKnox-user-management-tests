@@ -10,6 +10,9 @@ This repository contains a dual-purpose solution developed for the AccuKnox tech
 
 2.  **System Monitoring Tools**: Python scripts for log analysis and website health monitoring.
 
+## 📄 Manual Test Cases
+The manual test case document (Excel) can be found here: [AccuKnox_UserManagement_TestCases.xlsx](./AccuKnox_UserManagement_TestCases.xlsx)
+
 * * * * *
 
 🏗️ Architecture: Page Object Model (POM)
